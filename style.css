@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Light gray background */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #282c34; /* Dark header */
+    color: white; /* White text */
+    padding: 20px;
+    text-align: center; /* Centered text */
+}
+
+nav {
+    background-color: #61dafb; /* Light blue navigation */
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none; /* No bullets */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Inline navigation items */
+    margin: 0 10px; /* Space between items */
+}
+
+.year {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer; /* Pointer cursor on hover */
+    text-align: center; /* Centered text */
+}
+
+footer {
+    text-align: center; /* Centered text in footer */
+    padding: 10px;
+    background-color: #282c34; /* Dark footer */
+    color: white; /* White text */
+}
