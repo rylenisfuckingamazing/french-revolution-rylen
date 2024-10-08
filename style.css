@@ -1,53 +1,18 @@
 body {
-    background-color: #FFFFFF; /* White background */
-    color: #000000; /* Black text */
-    font-family: 'Open Sans', sans-serif; /* Simple, modern font */
+    font-family: Arial, sans-serif;
+    background-color: #FFC0CB; /* Light Pink background */
     margin: 0;
-    padding: 20px;
+    padding: 20px; /* Adding padding for some spacing */
 }
 
 header {
     background-color: #FFB6C1; /* Light Pink header */
     padding: 20px;
-    text-align: center;
-    border-radius: 8px; /* Rounded corners */
+    text-align: center; /* Centered text */
 }
 
 h1 {
-    font-family: 'Montserrat', sans-serif; /* Decorative font for headings */
     font-size: 2.5em; /* Large heading */
     margin: 0; /* Remove default margin */
-}
-
-nav {
-    margin: 20px 0; /* Space above and below navigation */
-}
-
-nav ul {
-    list-style-type: none; /* No bullets */
-    padding: 0;
-}
-
-nav ul li {
-    display: inline; /* Inline navigation items */
-    margin-right: 15px; /* Space between items */
-}
-
-nav a {
-    text-decoration: none; /* Remove underline */
-    color: #000000; /* Black text */
-    transition: color 0.3s; /* Smooth transition */
-}
-
-nav a:hover {
-    color: #FF69B4; /* Hot Pink on hover */
-}
-
-.box {
-    background-color: #FFFFFF; /* White background for boxes */
-    border: 2px solid #FFB6C1; /* Light Pink border */
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Light shadow */
-    border-radius: 8px; /* Rounded corners */
-    padding: 20px;
-    margin: 10px 0; /* Space between boxes */
+    color: #000000; /* Black text color */
 }
