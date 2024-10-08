@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The French Revolution</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to CSS file -->
+</head>
+<body>
+    <header>
+        <h1>The French Revolution</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#timeline">Timeline</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#events">Key Events</a></li>
+        </ul>
+    </nav>
+
+    <section id="timeline">
+        <h2>Timeline</h2>
+        <div class="year">1789</div>
+        <div class="year">1791</div>
+        <div class="year">1793</div>
+        <div class="year">1799</div>
+    </section>
+
+    <footer>
+        <p>Created by Rylen Renee Roche © 2024</p>
+    </footer>
+</body>
+</html>
