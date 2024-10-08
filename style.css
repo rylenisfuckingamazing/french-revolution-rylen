@@ -1,20 +1,26 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4; /* Light gray background */
+    background-color: #FFFFFF; /* White background */
+    color: #000000; /* Black text */
+    font-family: 'Open Sans', sans-serif; /* Simple, modern font */
     margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 
 header {
-    background-color: #282c34; /* Dark header */
-    color: white; /* White text */
+    background-color: #FFB6C1; /* Light Pink header */
     padding: 20px;
-    text-align: center; /* Centered text */
+    text-align: center;
+    border-radius: 8px; /* Rounded corners */
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif; /* Decorative font for headings */
+    font-size: 2.5em; /* Large heading */
+    margin: 0; /* Remove default margin */
 }
 
 nav {
-    background-color: #61dafb; /* Light blue navigation */
-    padding: 10px;
+    margin: 20px 0; /* Space above and below navigation */
 }
 
 nav ul {
@@ -24,21 +30,24 @@ nav ul {
 
 nav ul li {
     display: inline; /* Inline navigation items */
-    margin: 0 10px; /* Space between items */
+    margin-right: 15px; /* Space between items */
 }
 
-.year {
-    background-color: #4CAF50; /* Green background */
-    color: white; /* White text */
-    padding: 10px;
-    margin: 5px;
-    cursor: pointer; /* Pointer cursor on hover */
-    text-align: center; /* Centered text */
+nav a {
+    text-decoration: none; /* Remove underline */
+    color: #000000; /* Black text */
+    transition: color 0.3s; /* Smooth transition */
 }
 
-footer {
-    text-align: center; /* Centered text in footer */
-    padding: 10px;
-    background-color: #282c34; /* Dark footer */
-    color: white; /* White text */
+nav a:hover {
+    color: #FF69B4; /* Hot Pink on hover */
+}
+
+.box {
+    background-color: #FFFFFF; /* White background for boxes */
+    border: 2px solid #FFB6C1; /* Light Pink border */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Light shadow */
+    border-radius: 8px; /* Rounded corners */
+    padding: 20px;
+    margin: 10px 0; /* Space between boxes */
 }
