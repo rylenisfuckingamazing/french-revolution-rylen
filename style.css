@@ -1,22 +1,21 @@
 body {
-    background-color: white; /* White background */
-    color: black; /* Black text color */
-    font-family: 'Century Gothic', sans-serif; /* Font family */
-    font-size: 30px; /* Base font size */
+    background-color: white; 
+    color: black;
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 30px;
 }
 
 header {
-    background-color: #FFB6C1; /* Light Pink header */
-    padding: 10px; /* Space inside the header */
-    text-align: center; /* Centered text */
-}
+    background-color: #FFB6C1;
+    padding: 10px; 
+    text-align: center;
 
 h1 {
-    font-size: 2em; /* Large heading */
-    margin: 0; /* Remove default margin */
-    color: #000000; /* Black text color */
+    font-size: 2em;
+    margin: 0; 
+    color: #000000; 
 }
 
 p {
-    font-size: 15px; /* Increase paragraph text size */
+    font-size: 15px;
 }
