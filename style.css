@@ -2,7 +2,7 @@ body {
     background-color: white; /* White background */
     color: black; /* Black text color */
     font-family: 'Century Gothic', sans-serif; /* Font family */
-    font-size: 60px; /* Base font size */
+    font-size: 50px; /* Base font size */
 }
 
 header {
@@ -15,4 +15,8 @@ h1 {
     font-size: 3.5em; /* Large heading */
     margin: 0; /* Remove default margin */
     color: #000000; /* Black text color */
+}
+
+p {
+    font-size: 28px; /* Increase paragraph text size */
 }
