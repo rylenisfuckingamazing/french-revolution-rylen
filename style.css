@@ -2,7 +2,7 @@ body {
     background-color: white; 
     color: black;
     font-family: 'Century Gothic', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 header {
@@ -17,5 +17,5 @@ h1 {
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
 }
