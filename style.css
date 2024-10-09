@@ -2,17 +2,17 @@ body {
     background-color: white; /* White background */
     color: black; /* Black text color */
     font-family: 'Century Gothic', sans-serif; /* Font family */
-    font-size: 40px; /* Base font size */
+    font-size: 30px; /* Base font size */
 }
 
 header {
     background-color: #FFB6C1; /* Light Pink header */
-    padding: 13px; /* Space inside the header */
+    padding: 10px; /* Space inside the header */
     text-align: center; /* Centered text */
 }
 
 h1 {
-    font-size: 2.5em; /* Large heading */
+    font-size: 2em; /* Large heading */
     margin: 0; /* Remove default margin */
     color: #000000; /* Black text color */
 }
