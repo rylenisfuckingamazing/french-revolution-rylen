@@ -1,8 +1,10 @@
 body {
-    font-family: Playfair display;
-    background-color: #FFC0CB; /* Light Pink background */
-    margin: 0;
-    padding: 0; /* Adding padding for some spacing */
+body {
+    background-color: white;
+    color: black; 
+    font-family: Garamond
+}
+
 }
 
 header {
